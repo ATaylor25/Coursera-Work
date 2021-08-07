@@ -9,14 +9,14 @@ h1 {
 }
 .container {
 	position: relative;
-	border: 1px solid #FFFFFF;
+	border: 1px solid #000000;
 	background-color: #D3D3D3;
 }
 .beef {
 	position: absolute;
 	top: -26px;
 	right: -1px;
-	border:1px solid #FFFFFF;
+	border:1px solid #000000;
 	background-color: #FFB6C1;
 	text-align: center;
 	width: 120px;
@@ -29,7 +29,7 @@ h1 {
 	position: absolute;
 	top: -26px;
 	right: -1px;
-	border:1px solid #FFFFFF;
+	border:1px solid #000000;
 	background-color:  #a24857;
 	text-align: center;
 	width: 120px;
@@ -43,7 +43,7 @@ h1 {
 	position: absolute;
 	top: -26px;
 	right: -1px;
-	border:1px solid #FFFFFF;
+	border:1px solid #000000;
 	background-color: #4169e1;
 	text-align: center;
 	width: 120px;
@@ -83,7 +83,7 @@ h1 {
 @media (min-width: 992px) {
  .col-lg-1, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-lg-10, .col-lg-11, .col-lg-12, .beef-lg, .chicken-lg, .pork-lg {
     float: left;
-    border: 1px solid #FFFFFF;
+    border: 1px solid #000000;
 
   }
   .beef-lg {
